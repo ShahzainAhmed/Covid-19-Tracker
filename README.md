@@ -1,4 +1,4 @@
-# Covid 19 App in Flutter
+# Covid 19 Tracker Application in Flutter
 
 ## Working Demo:
 
